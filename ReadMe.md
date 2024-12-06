@@ -1,0 +1,1 @@
+A quest to develop deep understanding of variational gaussian process latent variable models 
